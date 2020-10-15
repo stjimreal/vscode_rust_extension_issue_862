@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "cycle-tree",
+    "weak-ref",
+    "one-more",
+]
