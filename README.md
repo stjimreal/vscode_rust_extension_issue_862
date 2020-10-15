@@ -1,7 +1,7 @@
 <!--
  * @Date: 2020-10-15 22:07:20
  * @LastEditors: LIULIJING
- * @LastEditTime: 2020-10-15 22:27:43
+ * @LastEditTime: 2020-10-15 22:42:53
 -->
 
 # The VS Code Rust extension is parsing infinitely when using Cargo's workspace traits
@@ -33,4 +33,4 @@ weak-ref = {path = "../weak-ref"}
 
 `Uncomment` the last line.
 
-> You can try the issue in any `Crates` or  as you like.
+> You can try the issue in whether a binary or a lib-`Crates` as you like.
